@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=League+Script');
+textarea {
+    resize: vertical;
+}
+.inactive-link {
+   cursor: default;
+}
+.header-logo .site-logo, .footer-site-logo {
+    font-family: 'League Script', cursive;
+    /* color: white; */
+    font-size: 200%;
+    width: inherit;
+    font-weight: bold;
+}
+a.footer-site-logo {
+    font-size: 6em;
+    line-height: 0;
+}
+.typewrite {
+    pointer-events: none;
+}
+.about-content--timeline .timeline__header{
+  text-align: center;
+}
+.about-content--timeline h5 {
+    color: #858585;
+}
+.service-icon {
+    font-size: 200%;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    border-bottom: 1px solid #2fb4b3;
+    color: #858585;
+    width: 50%;
+    text-align: center;
+}
+img.pswp__img {
+    object-fit: contain;
+}
+.item-folio__text {
+    width:  100%;
+    background: #0000008c;
+    padding-top:  7px;
+}
+
+.masonry__brick {
+}
+
+.item-folio {
+    margin: 10px;
+    box-shadow: -1px 2px 4px #00000066;
+}
+
+p.item-folio__cat {
+    color: #8ef5f499;
+}
+.s-contact {
+    background-color: #151515;
+    background-image: url(../images/contact-bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center, center;
+    padding-top: 13.2rem;
+    padding-bottom: 12rem;
+    color: rgba(255, 255, 255, 0.5);
+    position: relative;
+    background-size: cover;
+}
