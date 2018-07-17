@@ -65,3 +65,6 @@ p.item-folio__cat {
     position: relative;
     background-size: cover;
 }
+.message-success {
+    color: #2fb4b3;
+}
