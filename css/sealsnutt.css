@@ -22,6 +22,11 @@ a.footer-site-logo {
 .about-content--timeline .timeline__header{
   text-align: center;
 }
+#about h3 {
+    font-size: 5rem;
+    border-bottom: 2px solid #83cbcb4f;
+    padding-bottom: 10px;
+}
 .about-content--timeline h5 {
     color: #858585;
 }
@@ -67,4 +72,13 @@ p.item-folio__cat {
 }
 .message-success {
     color: #2fb4b3;
+}
+.s-services {
+    padding-top: 15rem;
+    padding-bottom: 15.6rem;
+    background-color: #FFFFFF;
+    position: relative;
+}
+.s-about {
+    background-color:  #f1f1f1;
 }
